@@ -1,0 +1,37 @@
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\MainWindow.g.cs
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\App.g.cs
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1_MarkupCompile.cache
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1_MarkupCompile.lref
+D:\Yamato\Desktop\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+D:\Yamato\Desktop\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+D:\Yamato\Desktop\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\MainWindow.baml
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.g.resources
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Dodaj.g.cs
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Procitaj.g.cs
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Dodaj.baml
+D:\Yamato\Desktop\Zadatak1\Zadatak1\obj\Debug\Procitaj.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Dodaj.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\MainWindow.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Procitaj.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\App.g.cs
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1_MarkupCompile.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1_MarkupCompile.lref
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Dodaj.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\MainWindow.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Procitaj.baml
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.g.resources
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+D:\Yamato\Documents\Literatura, faks\Fakultet\Obnovljena godina\Zimski semestar\HCI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb

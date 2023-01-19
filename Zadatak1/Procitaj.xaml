@@ -1,0 +1,108 @@
+﻿<Window x:Class="Zadatak1.Procitaj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadatak1"
+        mc:Ignorable="d"
+        Title="ProcitajCPU" Height="850" Width="800" MouseLeftButtonDown="Window_MouseLeftButtonDown" WindowStyle="None" AllowsTransparency="True"
+        Background="Transparent" >
+
+    <Canvas Height="850" Width="800">
+        <Path Stroke="Black" StrokeThickness="3" Name="UIPath">
+            <Path.Fill>
+                <SolidColorBrush Color="#8D9FF5"/>
+            </Path.Fill>
+            <Path.Data>
+
+                <PathGeometry>
+                    <PathFigure StartPoint="20,150">
+                        <LineSegment Point="20,600"/>
+                        <QuadraticBezierSegment Point1="20,640" Point2="80,640"/>
+                        <LineSegment Point="720,640"/>
+                        <QuadraticBezierSegment Point1="770,642" Point2="780,600"/>
+                        <LineSegment Point="780,150"/>
+                        <QuadraticBezierSegment Point1="780,105" Point2="720,110"/>
+                        <LineSegment Point="80,110"/>
+                        <QuadraticBezierSegment Point1="18,105" Point2="20,150"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <Path Stroke="Black" StrokeThickness="3" Name="UIPath1">
+            <Path.Fill>
+                <SolidColorBrush Color="Black"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="50,180">
+                        <LineSegment Point="50,570"/>
+                        <QuadraticBezierSegment Point1="50,615" Point2="110,610"/>
+                        <LineSegment Point="690,610"/>
+                        <QuadraticBezierSegment Point1="746,612" Point2="750,570"/>
+                        <LineSegment Point="750,180"/>
+                        <QuadraticBezierSegment Point1="755,135" Point2="690,140"/>
+                        <LineSegment Point="110,140"/>
+                        <QuadraticBezierSegment Point1="48,135" Point2="50,180"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <Path Stroke="Black" StrokeThickness="3" Name="UIPath2">
+            <Path.Fill>
+                <SolidColorBrush Color="#6672AE"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="320,640">
+                        <QuadraticBezierSegment Point1="330,700" Point2="320,750"/>
+                        <LineSegment Point="450,750"/>
+                        <QuadraticBezierSegment Point1="440,700" Point2="450,640"/>
+                        <LineSegment Point="320,640"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <Path Stroke="Black" StrokeThickness="3" Name="UIPath3">
+            <Path.Fill>
+                <SolidColorBrush Color="#8D9FF5"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="260,750">
+                        <LineSegment Point="260,800"/>
+                        <LineSegment Point="510,800"/>
+                        <LineSegment Point="510,750"/>
+                        <LineSegment Point="260,750"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+
+        <Grid>
+            <Label x:Name="Naziv" Content="Procitaj" FontWeight="Bold" FontSize="30" Margin="330,97,0,0" Foreground="Black"/>
+
+            <Label x:Name="label_nazivCPU" Content="Naziv:" HorizontalAlignment="Left" Margin="70,170,0,0" FontWeight="Bold" FontSize="20" Foreground="Cyan"/>
+            <Label x:Name="nazivCPU" HorizontalAlignment="Left" Height="30" Margin="150,170,0,0"  VerticalAlignment="Top" Width="120" FontFamily="Goudy Old Style" Foreground="Cyan" FontSize="20"/>
+
+            <Label x:Name="label_brojJezgra" Content="Broj jezgra:" HorizontalAlignment="Left" Margin="270,170,0,0" FontWeight="Bold" FontSize="20" Foreground="Cyan"/>
+            <Label x:Name="brojJezgra" HorizontalAlignment="Left" Height="30" Margin="390,170,0,0" VerticalAlignment="Top" Width="50" FontFamily="Goudy Old Style" Foreground="Cyan" FontSize="20"/>
+
+            <Label x:Name="label_datum" Content="Datum izlaska:" HorizontalAlignment="Left" Margin="440,170,0,0" FontWeight="Bold" FontSize="20" Foreground="Cyan"/>
+            <Label x:Name="datum" ContentStringFormat="dd.MM.yyyy." HorizontalAlignment="Left" Height="30" Margin="590,170,0,0" VerticalAlignment="Top" Width="120" FontFamily="Goudy Old Style" Foreground="Cyan" FontSize="20"/>
+
+            <Label x:Name="label_slika" Content="Slika porizvodjaca" HorizontalAlignment="Left" Margin="70,230,0,0" VerticalAlignment="Top" Width="180" Height="30" FontFamily="Goudy Old Style" FontWeight="Bold" Foreground="Black" Background="Cyan" FontSize="20"/>
+            <Image x:Name="slika" HorizontalAlignment="Left" Height="60" Margin="270,210,0,0" VerticalAlignment="Top" Width="180" Stretch="Fill"/>
+
+            <Button x:Name="zatovri" Content="Izadji" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="650,615,0,0" Width="50" BorderBrush="Black" Background="Red" Cursor="Hand" Click="Click_izadji"/>
+
+            <Label x:Name="detaljnije" Content="Detaljnije:" HorizontalAlignment="Left" Margin="70,285,0,0" VerticalAlignment="Top" Width="110" Height="30" FontFamily="Goudy Old Style" FontWeight="Bold" Foreground="Cyan" FontSize="20"/>
+
+        </Grid>
+
+        <DockPanel Canvas.Left="70" Canvas.Top="300" Height="250" Width="660">
+            <RichTextBox Name="rtbEditor" IsReadOnly="True" Width="660" Height="200" Margin="0,10,0,0"/>
+        </DockPanel>
+    </Canvas>
+
+</Window>
